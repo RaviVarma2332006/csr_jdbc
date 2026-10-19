@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ExcelImporter",
+            "request": "launch",
+            "mainClass": "ExcelImporter",
+            "args": "Akshar_Bharati_CSR_Prospect_List.xlsx"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
